@@ -1,0 +1,23 @@
+Total Vendido = SUM(payments_tratado[payment_value]) 
+
+Ticket Médio = DIVIDE([Total Vendido], COUNTROWS(orders_tratado))
+
+Pedidos = COUNT(order_items_tratado[order_id])
+
+Volume Vendido = COUNTROWS(order_items_tratado)
+
+Categorias = DISTINCTCOUNT(products_tratado[product_category_name])
+
+Itens Vendidos = COUNTROWS(order_items_tratado)
+
+Satisfacao = AVERAGE(reviews_tratado[review_score])
+
+Frete % do Produto = DIVIDE([Frete Total], [Receita Itens])
+
+Frete Médio por Item = AVERAGE(order_items_tratado[freight_value])
+
+Nota Média = AVERAGE(reviews_tratado[review_score])
+
+Vendedores por Estado = Contagem seller_id por seller_state
+
+% Frete do Produto por Estado = Frete % do Produto por customer_state 
