@@ -20,7 +20,7 @@ Problemas na entrega estão prejudicando a satisfação e as vendas?
 Quais categorias de produto mais sustentam (ou derrubam) a receita?
 Painel Interativo
 
-O arquivo painel_pbi.html é um dashboard standalone (basta abrir no navegador) com 4 páginas:
+O arquivo PROJETOHARVE.pbix é um dashboard com 4 páginas:
 
 Visão Geral— vendas por mês, por estado, por forma de pagamento e variação mês a mês.
 Categorias — receita e volume por categoria, evolução mensal das top 5 categorias e nota média por faixa de atraso.
@@ -31,6 +31,6 @@ Todas as páginas possuem filtros por status do pedido, estado do cliente e per�
 Ferramentas Utilizadas
 
 Análise exploratória e construção de indicadores
-Power BI (relatório original) e HTML/SVG/JavaScript puro (dashboard replicado)
-Base de dados pública do e-commerce Olist (jan–jul/2018)
+Power BI
+Base de dados pública do e-commerce Olist (jan–ago/2018)
 Período analisado: janeiro a agosto de 2018.
