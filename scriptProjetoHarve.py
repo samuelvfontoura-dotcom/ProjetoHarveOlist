@@ -1,6 +1,7 @@
 import pandas as pd
 
 ##LIMPEZA GEOLICATION 
+##Carregar e analisar arquivo bruto
 
 df = pd.read_csv('olist_geolocation_dataset.csv')
 print(len(df))
@@ -37,7 +38,7 @@ df.head()
 
 
 ##LIMPEZA CUSTOMER
-#carregar arquivo bruto
+#carregar e analisar arquivo bruto 
 df = pd.read_csv('olist_order_customer_dataset.csv')
 df.head()
 df.dtypes
@@ -78,7 +79,7 @@ df.head()
 
 
 ##LIMPEZA ITEMS
-#Carregar arquivo bruto
+#Carregar e analisar arquivo bruto
 df = pd.read_csv('olist_order_items_dataset.csv')
 print(len(df))
 df.head()
@@ -116,7 +117,7 @@ df.head()
 
 
 ##LIMPEZA PAYMENTS
-#Carregar dados
+#Carregar e analisar dados brutos
 df = pd.read_csv('olist_order_payments_dataset.csv')
 len(df)
 df.head()
@@ -162,7 +163,7 @@ df.head()
 
 
 ##LIMPEZA REVIEWS
-#Carregar o arquivo bruto
+#Carregar e analisar o arquivo bruto
 
 df = pd.read_csv('olist_order_reviews_dataset.csv')
 len(df)
@@ -218,7 +219,7 @@ df.head()
 
 
 #LIMPEZA ORDERS
-#Carregar o arquivo
+#Carregar e analisar o arquivo bruto
 df = pd.read_csv('olist_orders_dataset.csv')
 len(df)
 df.head()
@@ -276,7 +277,7 @@ df.to_csv('orders_tratado.csv', index=False)
 
 
 ##LIMPEZA PRODUCTS
-#Carregar arquivo bruto
+#Carregar e analisar arquivo bruto
 
 df = pd.read_csv('olist_products_dataset.csv')
 len(df)
@@ -331,6 +332,7 @@ df.to_csv('products_tratado.csv',index=False)
 
 
 ##LIMPEZA SELLERS
+##Carregar e analisar arquivo bruto
 df = pd.read_csv('olist_sellers_dataset.csv')
 len(df)
 df.head()
