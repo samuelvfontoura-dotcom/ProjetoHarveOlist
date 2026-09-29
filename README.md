@@ -35,7 +35,9 @@ Ferramentas Utilizadas
 
 Análise exploratória e construção de indicadores
 
-Power BI
+Python para tratamento dos dados
+
+Power BI 
 
 Base de dados pública do e-commerce Olist (jan–ago/2018)
 
