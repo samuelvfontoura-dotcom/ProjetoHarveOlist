@@ -34,6 +34,9 @@ Todas as páginas possuem filtros por status do pedido, estado do cliente e per�
 Ferramentas Utilizadas
 
 Análise exploratória e construção de indicadores
+
 Power BI
+
 Base de dados pública do e-commerce Olist (jan–ago/2018)
+
 Período analisado: janeiro a agosto de 2018.
