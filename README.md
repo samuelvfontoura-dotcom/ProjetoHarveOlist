@@ -36,7 +36,8 @@ Satisfação — atraso x nota média ao longo do tempo, pedidos por faixa de va
 
 Frete & Vendedores — frete % por estado, vendedores por estado, evolução mensal do frete nos maiores estados e comparativo SP x resto do Brasil.
 Todas as páginas possuem filtros por status do pedido, estado do cliente e período.
-<img width="1507" height="847" alt="image" src="https://github.com/user-attachments/assets/63bcef9a-b678-420c-a8ca-3383ee81c38d" />
+<img width="1495" height="850" alt="image" src="https://github.com/user-attachments/assets/fc026532-9ff2-409b-b909-f2219e2c0640" />
+
 
 SP - mostrando variação do frete e da receita na região de São Paulo
 <img width="1524" height="851" alt="image" src="https://github.com/user-attachments/assets/eefc3457-903e-49b3-9d21-627f644b0373" />
