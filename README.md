@@ -38,7 +38,7 @@ Frete & Vendedores — frete % por estado, vendedores por estado, evolução men
 Todas as páginas possuem filtros por status do pedido, estado do cliente e período.
 <img width="1507" height="847" alt="image" src="https://github.com/user-attachments/assets/63bcef9a-b678-420c-a8ca-3383ee81c38d" />
 
-SP - mostrando variação do frete e da receita da região de São Paulo
+SP - mostrando variação do frete e da receita na região de São Paulo
 <img width="1524" height="851" alt="image" src="https://github.com/user-attachments/assets/eefc3457-903e-49b3-9d21-627f644b0373" />
 
 
