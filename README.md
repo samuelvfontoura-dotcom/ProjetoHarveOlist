@@ -20,7 +20,7 @@ Problemas na entrega estão prejudicando a satisfação e as vendas?
 Quais categorias de produto mais sustentam (ou derrubam) a receita?
 Painel Interativo
 
-O arquivo PROJETOHARVE.pbix é um dashboard com 4 páginas:
+O arquivo PROJETOHARVE.pbix é um dashboard com 5 páginas:
 
 Visão Geral— vendas por mês, por estado, por forma de pagamento e variação mês a mês.
 <img width="1526" height="846" alt="image" src="https://github.com/user-attachments/assets/36da9f27-71df-4e00-9ba1-9a0b79d434ba" />
